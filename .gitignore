@@ -1,0 +1,8 @@
+
+.ipynb_checkpoints/
+
+*.csv
+!pomodone-log.csv
+
+tpot_pipline-*.py
+!tpot_pipline.py
